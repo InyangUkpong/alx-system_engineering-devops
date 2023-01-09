@@ -11,7 +11,7 @@ answering the classic interview question - "What happens when you type a URL int
 
 * **1. Everything's better with a pretty diagram**
   * [1-what_happen_when_diagram](./1-what_happen_when_diagram): Text file
-  containing the link to a diagram put together to visualize the networking
+  containing the links to a diagram put together to visualize the networking
   process described in my blog.
 
 ## Project Questions and Requirements :☑️
