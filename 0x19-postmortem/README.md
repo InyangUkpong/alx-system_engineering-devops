@@ -6,7 +6,7 @@ Ubuntu 14.04 container running an Apache web server. GET requests on the server 
 `500 Internal Server Error`'s, when the expected response was an HTML file defining a
 simple Holberton WordPress site.
 
-## Debugging Processes
+## Debugging Processes.
 
 Bug debugger Brennan (BDB... as in my actual initials... made that up on the spot, pretty
 good, huh?) encountered the issue upon opening the project and being, well, instructed to
