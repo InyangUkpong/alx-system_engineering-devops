@@ -1,4 +1,4 @@
-# Web stack debugging #3
+# Web stack debuggings #3
 
 This was the fourth in a series of web stack debugging projects. In these
 projects, I was given broken/bugged webstacks in isolated containers,
